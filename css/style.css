@@ -124,22 +124,22 @@ section {
 
 /* Background images */
 .section-a {
-  background-image: url('../img/section-a.webp');
+  background-image: url('../img/section-a.jpg');
 }
 .section-b {
-  background-image: url('../img/section-b.webp');
+  background-image: url('../img/section-b.png');
 }
 .section-c {
-  background-image: url('../img/section-c.webp');
+  background-image: url('../img/section-c.png');
 }
 .section-d {
-  background-image: url('../img/section-d.webp');
+  background-image: url('../img/section-d.png');
 }
 .section-e {
-  background-image: url('../img/section-e.webp');
+  background-image: url('../img/section-e.png');
 }
 .section-f {
-  background-image: url('../img/section-f.webp');
+  background-image: url('../img/section-f.gif');
 }
 
 .btn {
